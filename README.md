@@ -21,6 +21,7 @@ Welcome to the Book Recommendation System! This project leverages deep learning 
 │   ├── ratings.csv         # User-book ratings
 ├── main.py                 # Main script for training and recommendation
 ├── model.py                # Defines the recommendation model architecture
+├── best_model.h5           # Trained recommendation model saved as an HDF5 file
 ├── utils.py                # Helper functions for data loading and processing
 ├── app.py                  # Streamlit app for interactive recommendations
 ├── requirements.txt        # Python dependencies
@@ -77,7 +78,7 @@ These metrics indicate that the model provides accurate recommendations, with mi
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/book-recommendation-system.git
+git clone https://github.com/bautistao2/book-recommendation-system.git
 cd book-recommendation-system
 ```
 
@@ -122,10 +123,10 @@ streamlit run app.py
 
 ## **📧 Contact**
 For questions, feedback, or collaboration, feel free to reach out:
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Name**:  Ilyd Bautista
+- **Email**: bautistaosta1@gmail.com
+- **GitHub**: [ GitHub Profile](https://github.com/Bautistao2)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/bautita1)
 
 ---
 
