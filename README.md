@@ -1,5 +1,8 @@
 # 📚 Book Recommendation System
 
+![web application](img/screen_app.png)
+
+
 ### **Overview**
 Welcome to the Book Recommendation System! This project leverages deep learning to provide personalized book recommendations based on user preferences. By learning complex interactions between users and books, the system predicts ratings for unseen books and suggests the most relevant ones to each user. It's a hands-on demonstration of building and deploying a collaborative filtering-based recommendation system.
 
